@@ -13,7 +13,6 @@ import java.time.Instant;
 
 @Data
 @Entity
-@Builder
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name="redditUser")
